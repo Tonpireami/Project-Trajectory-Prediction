@@ -10,4 +10,4 @@ Pour l'ouvrir :
 - Votre navigateur s'ouvre, séléctionnez le fichier
 - Ne fermez pas le terminal pendant que vous avez le fichier ouvert !
 
-Précision, pour qu'il fonctionne, vous devez modifier le chemin dans le début du code pour le chemin d'accès de vos données (aussi téléchargeables sur le github).
+Précision, pour qu'il fonctionne, vous devez modifier le chemin dans le début du code pour le chemin d'accès de votre fichier dataset (télécharger d'abord le dataset ETH/UCY).
